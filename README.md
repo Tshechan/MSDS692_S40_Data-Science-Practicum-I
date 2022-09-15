@@ -1,8 +1,8 @@
 # MSDS692_S40_Data-Science-Practicum-I
 
-##Regis University
+## Regis University
 
-###Table of contents 
+### Table of contents 
 
 **1.Project Description **
 
