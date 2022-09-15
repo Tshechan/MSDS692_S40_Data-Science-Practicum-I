@@ -8,7 +8,7 @@
 
   A. Problem Statement
 
-  B. Introduction About Project
+  B. Project Introduction
 
   C. Tools and Libraries
 
@@ -30,6 +30,7 @@
 
 **Objective:**
 The goal of this research project is to explore the model to predict, with time series analysis, which cities in Colorado state are best for real estate investment. This analysis will appeal investors as it will help them make choices by predicting the estimated ROI for their investment in certain cities in the state of Colorado.
+
 **
 Data sources:**
 https://www.zillow.com/research/data/   and 
