@@ -1,9 +1,11 @@
 # MSDS692_S40_Data-Science-Practicum-I
-##Regis University
 
-###Table of contents** 
-1. **Project Description    **
-    
+**##Regis University**
+
+**###Table of contents **
+
+**1.Project Description **
+
 A. Problem Statement
 
 B. Introduction About Project
