@@ -3,13 +3,14 @@
 ## Regis University
 
 ### Table of contents 
+
 **1. Project Description **
 
-A. Problem Statement
+  A. Problem Statement
 
-B. Introduction About Project
+  B. Introduction About Project
 
-C. Tools and Libraries
+  C. Tools and Libraries
 
 **2. Data Collection**
 
@@ -17,9 +18,9 @@ C. Tools and Libraries
 
 **4. EDA**
 
-A. Data Cleaning
+  A. Data Cleaning
 
-B. Feature Engineering
+  B. Feature Engineering
 
 **5. Model Creation**
 
