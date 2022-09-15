@@ -4,7 +4,7 @@
 
 ### Table of contents 
 
-**1.Project Description **
+**1. Project Description **
 
 A. Problem Statement
 
