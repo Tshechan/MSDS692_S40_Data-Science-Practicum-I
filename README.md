@@ -18,9 +18,13 @@ For this project,the datasets used are Zillow research data and Redfin housing m
 
 **3. Generic Flow Of Project**
 A. Data processing
+
 B. Data Exploration and Visualizations
+
 C. Model Approach and development
+
 D. Model Validation and comparision
+
 E. Predictions
 
 **4. EDA**
