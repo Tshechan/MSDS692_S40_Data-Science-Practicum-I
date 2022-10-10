@@ -36,12 +36,12 @@ E. Predictions
 
   A. Data Cleaning
       
-  We are focusing in Colorado state so filtered out data fpr Colorado only. Then, we check if there are any missig values.
+  We are focusing in Colorado state so filtered out data for Colorado only. Then, we check if there are any missig values and worked on those missing values.
   
 
 **5. Model Approach**
 
-For the analysis, we have done simple EDA based approach to find the top five cities with ROI percentage as well as used time series ARIMA model for predicting the ROI percentage and the top five cities. 
+For the analysis, we have done simple EDA based approach to find the top five cities with ROI percentage as well as used time series ARIMA model for predicting the ROI percentage and the top five cities. Whereas, performed EDA for exploring the other factors relationship during the same time period of time.  
 
 **6. Model Conclusion**
 
