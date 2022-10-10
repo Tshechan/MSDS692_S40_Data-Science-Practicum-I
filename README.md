@@ -17,6 +17,7 @@ The goal of this research project is to explore the model to predict, with time 
 For this project,the datasets used are Zillow research data and Redfin housing market data available from zillow and Redfin websites.
 
 **3. Generic Flow Of Project**
+
 A. Data processing
 
 B. Data Exploration and Visualizations
