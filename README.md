@@ -36,7 +36,7 @@ E. Predictions
 
   A. Data Cleaning
       
-      We are focusing in Colorado state so filtered out data fpr Colorado only. Then, we check if there are any missig values.
+  We are focusing in Colorado state so filtered out data fpr Colorado only. Then, we check if there are any missig values.
   
 
 **5. Model Approach**
