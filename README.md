@@ -10,6 +10,7 @@
   
   The real estate industry being an important sector including varieties of stakeholders ranging from regulatory bodies, private sectors and investing firms. These stakeholders have a high demand of better understanding the real state’s growth mechanism and its return of investments (ROI). Colorado offers great opportunities for investment in housing market, recently we have seen many real estate investors interested to invest in this state. This project can be considered as a further step towards more evidence-based decision making for the benefit for those investors. The project focused on predicting the most beneficial cities in Colorado to invest and get highest return of investment (ROI) between based on data from Zillow. Also, perform EDA to analyze other features and find out any correlation to housing prices from the redfin data. This project provides a recommendation of which 5 Colorado State metro areas are the most prime for investing in now and selling a year from now.
 
+![image](https://user-images.githubusercontent.com/109038700/195724171-aed0550a-0601-4c6a-876b-f38b2a9276cf.png)
 
 
   B. Problem Statement
