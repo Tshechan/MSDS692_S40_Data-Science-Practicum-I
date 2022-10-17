@@ -10,14 +10,14 @@
 
   A. Project Introduction
   
-  	The real estate industry comprises of varieties of stakeholders ranging from regulatory bodies, private sectors and investing firms deeming it to be one of the vital sectors for revenue generation. These stakeholders have a high demand for better understanding of the real state’s growth mechanism and its return of investments (ROI). Colorado offers great opportunities for investment in housing market as recently it is observed that several real estate investors are interested to invest in this state. This project can be considered as an evidence-backed step towards a rational decision making for the benefit of those investors. This project focused on predicting the most favorable cities in Colorado to invest in and get highest return of investment (ROI) based on data from Zillow. In addition to this, we have performed exploratory data analysis (EDA) on data collected from Redfin to analyze impacting features and find out their correlation to housing prices. This project provides a recommendation on which five Colorado State metro areas are the most prime for investing in now and selling a year from now.
+The real estate industry comprises of varieties of stakeholders ranging from regulatory bodies, private sectors and investing firms deeming it to be one of the vital sectors for revenue generation. These stakeholders have a high demand for better understanding of the real state’s growth mechanism and its return of investments (ROI). Colorado offers great opportunities for investment in housing market as recently it is observed that several real estate investors are interested to invest in this state. This project can be considered as an evidence-backed step towards a rational decision making for the benefit of those investors. This project focused on predicting the most favorable cities in Colorado to invest in and get highest return of investment (ROI) based on data from Zillow. In addition to this, we have performed exploratory data analysis (EDA) on data collected from Redfin to analyze impacting features and find out their correlation to housing prices. This project provides a recommendation on which five Colorado State metro areas are the most prime for investing in now and selling a year from now.
 
 
 
 
   B. Problem Statement
   
- The goal of this research project is to explore the model to predict, with time series analysis, which cities in Colorado state are best for real estate investment. This analysis will appeal investors as it will help them make choices by predicting the estimated return of investment (ROI) for their investment in certain cities in the state of Colorado. This study finds out which 5 cities may yield high ROI percentage if invested.
+The goal of this research project is to explore the model to predict, with time series analysis, which cities in Colorado state are best for real estate investment. This analysis will appeal investors as it will help them make choices by predicting the estimated return of investment (ROI) for their investment in certain cities in the state of Colorado. This study finds out which 5 cities may yield high ROI percentage if invested.
 
 
 **2. Data Collection**
@@ -58,6 +58,7 @@ For the analysis, we have done simple EDA based approach to find the top five ci
 <img width="955" alt="Screen Shot 2022-10-16 at 5 46 34 PM" src="https://user-images.githubusercontent.com/109038700/196078090-3a3f9b69-2167-4d47-ac8e-5f281b01d4b3.png">
 
 <img width="978" alt="Screen Shot 2022-10-16 at 5 13 45 PM" src="https://user-images.githubusercontent.com/109038700/196078121-c73af338-1626-4739-bc90-988d8f7812f3.png">
+
 
 
 In our analysis, we can see that ARIMA models trained on data from 2012 - 2020 and tested on data from 2020- 2021 fairly outperformed an EDA based approach on the same time periods which shows that applying modeling was worth our effort. During simple EDA based analysis for selecting which five cities to invest in resulted in an ROI of 36.49% where the ARIMA model-based approach resulted in an ROI of 38.51%. Furthermore, it should be taken into consideration that the ARIMA based analysis had an error of 19.06% i.e., the predicated value deviated. 19.06% from the actual values for the test period. Apart from this, for the comparison of the model’s prediction we have also performed Facebook prophet model prediction which gave us top five cities which included the same three cities from our ARIMA model showing us that the model performed well. The graphs shown above provides us the predictions of top five cities with highest predicted ROI.
