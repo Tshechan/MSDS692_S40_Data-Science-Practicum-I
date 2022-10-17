@@ -66,7 +66,7 @@ In our analysis, we can see that ARIMA models trained on data from 2012 - 2020 a
 
 **7. Limitation and Future Considerations**
 
-There are other factors that I would also like to study about these metro areas to better understand whether median home price can really keep growing as predicted. For instance, the information about wage growth in Colorado, migration data as well as inflation data to determine whether prices in the Colorado metro areas are already close to the maximum the market will allow. Also, the ROI percentage obtained seems high in some metro areas, it would be better to do more research to figure out the sustainability of the rapid growth of house prices seen in recent years. Further analysis may include building linear model with additional features such as federal income tax rate and housing market safety score and more.![image](https://user-images.githubusercontent.com/109038700/196077657-5970b7f0-80b8-480e-b7ae-b5e9a6c56819.png)
+There are other factors that I would also like to study about these metro areas to better understand whether median home price can really keep growing as predicted. For instance, the information about wage growth in Colorado, migration data as well as inflation data to determine whether prices in the Colorado metro areas are already close to the maximum the market will allow. Also, the ROI percentage obtained seems high in some metro areas, it would be better to do more research to figure out the sustainability of the rapid growth of house prices seen in recent years. Further analysis may include building linear model with additional features such as federal income tax rate and housing market safety score and more.
 
 
 **Data sources:**
