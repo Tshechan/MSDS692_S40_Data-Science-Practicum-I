@@ -74,3 +74,7 @@ There are other factors that I would also like to study about these metro areas 
 https://www.zillow.com/research/data/ 
 
 https://www.redfin.com/news/data-center/ 
+
+**Presentation Link**
+
+https://www.youtube.com/watch?v=XxDR-O2WvSg&ab_channel=SangitaLamichhane 
